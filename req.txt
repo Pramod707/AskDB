@@ -1,1 +1,6 @@
 sqlite-utils
+sqlalchemy
+langchain-groq
+langchain-community
+langchain
+langchain-core
