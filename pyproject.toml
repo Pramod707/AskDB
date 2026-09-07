@@ -11,4 +11,5 @@ dependencies = [
     "langchain-groq>=1.1.3",
     "sqlalchemy>=2.0.52",
     "sqlite-utils>=4.2.1",
+    "streamlit>=1.63.0",
 ]
