@@ -132,3 +132,4 @@ uv run streamlit run frontend.py
 ## 👨‍💻 Author
 
 **Pramod B**
+Built as a practical AI/ML project exploring **LLM-powered database interaction and Text-to-SQL systems**.
